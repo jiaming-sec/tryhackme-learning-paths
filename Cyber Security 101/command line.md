@@ -28,3 +28,5 @@ Inspired by ping-pong, we send a specific ICMP packet and listen for a response.
 **tracert**, which stands for _trace route_. The command tracert target_name traces the network route traversed to reach the target.
 
 **nslookup**. It looks up a host or domain and returns its IP address. The syntax nslookup example.com will look up example.com using the default name server
+
+![image](https://github.com/user-attachments/assets/4c1dcc67-970d-4538-9de7-c9036adcaeaa)
