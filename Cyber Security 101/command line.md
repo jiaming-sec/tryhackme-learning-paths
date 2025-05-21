@@ -35,3 +35,10 @@ Inspired by ping-pong, we send a specific ICMP packet and listen for a response.
 A basic netstat command with no arguments will show you established connections
 
 ![image](https://github.com/user-attachments/assets/602ef059-30f3-40f0-bd1b-623264939702)
+
+If you are curious about the other options, you can run netstat -h, where -h displays the help page. We opted for the following options:
+
+**-a** displays all established connections and listening ports
+**-b** shows the program associated with each listening port and established connection
+**-o** reveals the process ID (PID) associated with the connection
+**-n** uses a numerical form for addresses and port numbers
