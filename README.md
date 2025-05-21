@@ -24,3 +24,10 @@ Hands-on red team skills and CTFs.
 - [ ] Exploitation Techniques
 - [ ] Privilege Escalation (Linux & Windows)
 - [ ] Real-world CTF Rooms
+
+## 🛡️ SOC Level 1 Analyst
+Security Operations essentials.
+- [ ] SOC Tools & Platforms
+- [ ] Threat Detection & Alerts
+- [ ] Log Analysis & SIEM
+- [ ] Incident Handling
