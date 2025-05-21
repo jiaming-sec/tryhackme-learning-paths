@@ -14,3 +14,5 @@ Learn the command line and MS PowerShell in Windows by practising various essent
 **ver** command to determine the operating system (OS) version
  
 **systeminfo** command to list various information about the system such as OS information,
+
+# Network Configuration
