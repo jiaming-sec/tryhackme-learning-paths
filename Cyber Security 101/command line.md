@@ -10,3 +10,5 @@ Learn the command line and MS PowerShell in Windows by practising various essent
 **Automation:** While you can automate GUI tasks, creating a batch file or script with the commands you need to repeat is much easier.
 
 **Remote management:** CLI makes it very convenient to use SSH to manage a remote system such as a server, router, or an IoT device. This approach works well on slow network speeds and systems with limited resources.
+
+ ver command to determine the operating system (OS) version
