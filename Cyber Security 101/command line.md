@@ -17,3 +17,5 @@ Learn the command line and MS PowerShell in Windows by practising various essent
 
 # Network Configuration
 You can check your network information using **ipconfig**. The terminal output below shows our IP address, subnet mask, and default gateway.
+
+Network Troubleshooting
