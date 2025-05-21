@@ -32,3 +32,6 @@ Inspired by ping-pong, we send a specific ICMP packet and listen for a response.
 ![image](https://github.com/user-attachments/assets/4c1dcc67-970d-4538-9de7-c9036adcaeaa)
 
 **netstat**. This command displays current network connections and listening ports. 
+A basic netstat command with no arguments will show you established connections
+
+![image](https://github.com/user-attachments/assets/602ef059-30f3-40f0-bd1b-623264939702)
