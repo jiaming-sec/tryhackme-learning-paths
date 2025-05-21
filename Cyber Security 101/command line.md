@@ -17,6 +17,7 @@ Learn the command line and MS PowerShell in Windows by practising various essent
 
 # Network Configuration
 You can check your network information using **ipconfig**. The terminal output below shows our IP address, subnet mask, and default gateway.
+![image](https://github.com/user-attachments/assets/bcd48039-4226-46d8-8e98-a7fb8de5cbb2)
 
 Network Troubleshooting
 One common troubleshooting task is checking if the server can access a particular server on the Internet. The command syntax is **ping target_name**
