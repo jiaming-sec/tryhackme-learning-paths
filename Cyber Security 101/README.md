@@ -1,4 +1,4 @@
-Cyber Security 101
+##Cyber Security 101
 
 This beginner-friendly path aims to give a solid introduction to the different areas in Computer Security. This path covers the fundamental concepts and applications in the following:
 
