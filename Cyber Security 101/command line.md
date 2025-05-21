@@ -16,3 +16,4 @@ Learn the command line and MS PowerShell in Windows by practising various essent
 **systeminfo** command to list various information about the system such as OS information,
 
 # Network Configuration
+You can check your network information using **ipconfig**. The terminal output below shows our IP address, subnet mask, and default gateway.
