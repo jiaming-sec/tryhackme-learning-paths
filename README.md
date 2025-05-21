@@ -10,3 +10,10 @@ Basic concepts for total beginners.
 - [ ] Networking
 - [ ] Attacking Websites
 - [ ] Defending Systems
+
+## 🧑‍💻 Complete Beginner
+Start here if you're new to IT and cybersecurity.
+- [ ] Linux Fundamentals
+- [ ] Network Security
+- [ ] Windows Fundamentals
+- [ ] Practical Hacking
