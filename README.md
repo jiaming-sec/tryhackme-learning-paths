@@ -17,3 +17,10 @@ Start here if you're new to IT and cybersecurity.
 - [ ] Network Security
 - [ ] Windows Fundamentals
 - [ ] Practical Hacking
+
+## ⚔️ Offensive Pentesting
+Hands-on red team skills and CTFs.
+- [ ] Information Gathering
+- [ ] Exploitation Techniques
+- [ ] Privilege Escalation (Linux & Windows)
+- [ ] Real-world CTF Rooms
