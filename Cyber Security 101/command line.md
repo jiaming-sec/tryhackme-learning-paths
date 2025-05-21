@@ -42,3 +42,6 @@ If you are curious about the other options, you can run netstat -h, where -h dis
 **-b** shows the program associated with each listening port and established connection
 **-o** reveals the process ID (PID) associated with the connection
 **-n** uses a numerical form for addresses and port numbers
+
+We combine these four options and execute the netstat -abon command. 
+![image](https://github.com/user-attachments/assets/553ae649-6008-432e-abc4-0d95b94c65ea)
