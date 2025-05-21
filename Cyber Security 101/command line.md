@@ -22,4 +22,7 @@ You can check your network information using **ipconfig**. The terminal output b
 Network Troubleshooting
 One common troubleshooting task is checking if the server can access a particular server on the Internet. The command syntax is **ping target_name**
 Inspired by ping-pong, we send a specific ICMP packet and listen for a response. If a response is received, we know that we can reach the target and that the target can reach us.
+
 ![image](https://github.com/user-attachments/assets/ee079d89-a239-401f-b28b-1288169c85d7)
+
+**tracert**, which stands for _trace route_. The command tracert target_name traces the network route traversed to reach the target.
