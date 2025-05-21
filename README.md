@@ -31,3 +31,12 @@ Security Operations essentials.
 - [ ] Threat Detection & Alerts
 - [ ] Log Analysis & SIEM
 - [ ] Incident Handling
+
+## 🧠 Cyber Defense
+Blue teaming & threat hunting.
+- [ ] Intro to SIEM (Splunk, ELK)
+- [ ] Network & Endpoint Defense
+- [ ] Detection Engineering
+- [ ] Writing Playbooks
+
+---
