@@ -49,3 +49,6 @@ We combine these four options and execute the netstat -abon command.
 # File and Disk Management
 Working With Directories
 You can use **cd** without parameters to display the current drive and directory. It is the equivalent of asking the system, where am I?
+![image](https://github.com/user-attachments/assets/68bcc0a1-0225-4e01-a466-f2c79650a4d0)
+
+
