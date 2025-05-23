@@ -53,3 +53,5 @@ You can use **cd** without parameters to display the current drive and directory
 ![image](https://github.com/user-attachments/assets/68bcc0a1-0225-4e01-a466-f2c79650a4d0)
 
 You can view the child directories using **dir**.
+
+![image](https://github.com/user-attachments/assets/a3c99284-3ae6-4b0d-8286-2b43206c70b4)
