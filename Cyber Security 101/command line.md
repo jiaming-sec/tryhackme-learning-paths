@@ -55,3 +55,5 @@ You can use **cd** without parameters to display the current drive and directory
 You can view the child directories using **dir**.
 
 ![image](https://github.com/user-attachments/assets/a3c99284-3ae6-4b0d-8286-2b43206c70b4)
+
+# Windows PowerShell
