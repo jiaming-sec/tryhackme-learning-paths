@@ -59,7 +59,7 @@ You can view the child directories using **dir**.
 # Windows PowerShell
 PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
 
-
+In programming, an object represents an item with properties (characteristics) and methods (actions). For example, a car object might have properties like Color, Model, and FuelLevel, and methods like Drive(), HonkHorn(), and Refuel()
 
 
 
