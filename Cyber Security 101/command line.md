@@ -47,3 +47,4 @@ We combine these four options and execute the netstat -abon command.
 ![image](https://github.com/user-attachments/assets/553ae649-6008-432e-abc4-0d95b94c65ea)
 
 # File and Disk Management
+Working With Directories
