@@ -57,3 +57,4 @@ You can view the child directories using **dir**.
 ![image](https://github.com/user-attachments/assets/a3c99284-3ae6-4b0d-8286-2b43206c70b4)
 
 # Windows PowerShell
+PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework.
