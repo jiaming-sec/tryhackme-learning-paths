@@ -66,7 +66,7 @@ Set-Location: Changes (sets) the current working directory.
 
 To list all available cmdlets, functions, aliases, and scripts that can be executed in the current PowerShell session, we can use **Get-Command**. It’s an essential tool for discovering what commands one can use.
 
-
+For each CommandInfo object retrieved by the cmdlet, some essential information (properties) is displayed on the console. It’s possible to filter the list of commands based on displayed property values. For example, if we want to display only the available commands of type “function”, we can use -CommandType "Function"
 
 
 
