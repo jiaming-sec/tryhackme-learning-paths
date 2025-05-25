@@ -61,7 +61,7 @@ PowerShell is a cross-platform task automation solution made up of a command-lin
 
 In programming, an object represents an item with properties (characteristics) and methods (actions). For example, a car object might have properties like Color, Model, and FuelLevel, and methods like Drive(), HonkHorn(), and Refuel()
 
-
+Get-Content: Retrieves (gets) the content of a file and displays it in the console.
 
 
 
