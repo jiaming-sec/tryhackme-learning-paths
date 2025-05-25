@@ -64,7 +64,7 @@ In programming, an object represents an item with properties (characteristics) a
 Get-Content: Retrieves (gets) the content of a file and displays it in the console.
 Set-Location: Changes (sets) the current working directory.
 
-
+To list all available cmdlets, functions, aliases, and scripts that can be executed in the current PowerShell session, we can use **Get-Command**. It’s an essential tool for discovering what commands one can use.
 
 
 
