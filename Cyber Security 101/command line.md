@@ -70,7 +70,7 @@ For each CommandInfo object retrieved by the cmdlet, some essential information 
 
 **Get-ChildItem** lists the files and directories in a location specified with the -Path parameter.
 
-
+If no **Path** is specified, the cmdlet will display the content of the current working directory.
 
 
 
