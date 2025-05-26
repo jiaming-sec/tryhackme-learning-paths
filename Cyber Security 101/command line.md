@@ -68,7 +68,7 @@ To list all available cmdlets, functions, aliases, and scripts that can be execu
 
 For each CommandInfo object retrieved by the cmdlet, some essential information (properties) is displayed on the console. It’s possible to filter the list of commands based on displayed property values. For example, if we want to display only the available commands of type “function”, we can use -CommandType "Function"
 
-
+**Get-ChildItem** lists the files and directories in a location specified with the -Path parameter.
 
 
 
